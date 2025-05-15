@@ -20,7 +20,10 @@ The client:
 
 This project was developed to study SOME/IP concepts, including service discovery, method calls, frame structure, and vsomeip configuration, making it a practical example for learning automotive communication protocols.
 
-![](Screenshot from 2025-05-16 01-54-18.png)
+<p align='center'>
+<img width="95%" src="./Screenshot from 2025-05-16 01-54-18.png"/>
+</p> 
+
 
 
 
@@ -45,7 +48,10 @@ SOME/IP messages in vsomeip are structured as frames, consisting of a header and
 
 #### SOME/IP Frame Structure
 
-![image-20250516021223177](Screenshot from 2025-05-16 02-12-13.png)
+<p align='center'>
+<img width="95%" src="./Screenshot from 2025-05-16 02-12-13.png"/>
+</p> 
+
 
 A SOME/IP frame has the following components:
 
