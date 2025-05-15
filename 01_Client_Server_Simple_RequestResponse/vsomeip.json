@@ -1,0 +1,27 @@
+{
+    "unicast": "127.0.0.1",
+    "logging": {
+        "level": "debug",
+        "console": true
+    },
+    "applications": [
+        {
+            "name": "ServerApp",
+            "id": "0x1111"
+        },
+        {
+            "name": "ClientApp",
+            "id": "0x2222"
+        }
+    ],
+    "services": [
+        {
+            "service": "0x0100",
+            "instance": "0x8888",
+            "unicast": "127.0.0.1",
+            "protocol": "udp",
+            "port": 30491
+        }
+    ],
+    "routing": "ServerApp"
+}

@@ -1,0 +1,4 @@
+/home/awadin/Downloads/vsomeip_example/build/CMakeFiles/server.dir
+/home/awadin/Downloads/vsomeip_example/build/CMakeFiles/client.dir
+/home/awadin/Downloads/vsomeip_example/build/CMakeFiles/edit_cache.dir
+/home/awadin/Downloads/vsomeip_example/build/CMakeFiles/rebuild_cache.dir
