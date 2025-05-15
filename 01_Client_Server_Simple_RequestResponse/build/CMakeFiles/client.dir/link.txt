@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/client.dir/client_main.cpp.o -o client  -Wl,-rpath,/usr/local/lib /usr/local/lib/libvsomeip3.so.3.5.0 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.74.0 /usr/lib/x86_64-linux-gnu/libboost_atomic.so.1.74.0 
