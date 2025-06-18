@@ -1,0 +1,4 @@
+/home/youssef/Downloads/Client/build/CMakeFiles/server.dir
+/home/youssef/Downloads/Client/build/CMakeFiles/client.dir
+/home/youssef/Downloads/Client/build/CMakeFiles/edit_cache.dir
+/home/youssef/Downloads/Client/build/CMakeFiles/rebuild_cache.dir

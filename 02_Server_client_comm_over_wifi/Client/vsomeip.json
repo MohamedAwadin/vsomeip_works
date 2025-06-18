@@ -1,0 +1,26 @@
+{
+    "unicast":  "172.20.10.11",
+    "logging": {
+        "level": "debug",
+        "console": true
+    },
+    "application" : 
+    [
+        {
+            "name" : "ClientApp",
+            "id" : "0x1234"  
+        }
+    ],
+    "service-discovery": {
+        "enable": true,
+        "multicast": "224.244.224.245",
+        "port": 30490,
+        "protocol": "udp",
+        "initial_delay_min": 100,
+        "initial_delay_max": 300,
+        "repetition_base_delay": 200,
+        "repetition_max": 3,
+        "ttl": 3
+    },
+    "routing": "ClientApp"
+}

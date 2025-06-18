@@ -1,0 +1,4 @@
+/home/awadin/ITI_9Monthes/someip/server_client_comm_over_wifi/Server/build/CMakeFiles/server.dir
+/home/awadin/ITI_9Monthes/someip/server_client_comm_over_wifi/Server/build/CMakeFiles/client.dir
+/home/awadin/ITI_9Monthes/someip/server_client_comm_over_wifi/Server/build/CMakeFiles/edit_cache.dir
+/home/awadin/ITI_9Monthes/someip/server_client_comm_over_wifi/Server/build/CMakeFiles/rebuild_cache.dir
